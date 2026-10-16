@@ -1,6 +1,7 @@
 # Whitehat
-Name:
+About Me
 Priyamvada Uprety
+
 Why I want to Join WhiteHats
 As a student studying Computer Science and Engineering and specialising in the field of Cybersecurity, I am interested in learning about and experiencing practical projects related to cybersecurity. I am interested in learning ethical hacking and how cyberattacks work and understand how to protect ones local and global systems and data.
 I aim and hope to bring in my contribution to WhiteHats club by participating and hosting events dealing with these skills to help others as well as gain experience in this area.
